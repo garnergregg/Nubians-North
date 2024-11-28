@@ -1,8 +1,7 @@
 {
     "name": "Cheese Coin",
     "symbol": "CC",
-    "uri": 
-"https://github.com/garnergregg/Nubians-North/blob/4cf875318d7bfecbe02454105380d112e6edd80a/Nubian%20Modified.png",
+    "uri": "https://raw.githubusercontent.com/garnergregg/Nubians-North/main/Nubian%20Modified.png",
     "seller_fee_basis_points": 500,
     "creators": null 
 "mint_address": "pyNvbfQdW9JREvNuNYMg4Zkzx6KjHNrsTypaNixZ4EJ" 
